@@ -1,4 +1,4 @@
-# co9dd4288bcdb0c0cfe7a2d9c
+# Meme Generator
 
 Quick start:
 
